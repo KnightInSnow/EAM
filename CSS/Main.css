@@ -1,0 +1,640 @@
+
+
+
+table {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    font-size: 10pt;
+    width: 100%;
+}
+
+/* 主table字体,固定高度 */
+table.main {
+    width: 1004px;
+    min-height: 550px;
+    border: 0px;
+    background-color: #ffffff;
+}
+
+    table.left {
+        height: 100%;
+        width: 174px;
+        border: 0px;
+    }
+
+    /* 无边框table */
+    table.title {
+        width: 100%;
+        border: 0px;
+    }
+
+    /* 带边框table */
+    table.tip {
+        width: 100%;
+        border: 1px solid #bebebe;
+    }
+
+    /* 列表的table,带边框,设定宽度 */
+    table.list {
+        width: 100%;
+        border: 1px solid #bebebe;
+    }
+
+/* 列表标题的tr,固定高度,有背景色 */
+tr.title {
+    height: 22px;
+    background-color: #cae2eb;
+    font-weight: lighter;
+}
+
+/* 列表总计的tr,固定高度,有背景色 */
+tr.bottom {
+    height: 15px;
+    background-color: #E0E0E0;
+}
+
+/* 表格选中的tr,固定高度,有背景色(蓝色) */
+tr.selected {
+    height: 23px;
+    background-color: #c7e5ed;
+}
+
+/* 列表底部分页的tr,固定高度,有背景色 */
+tr.pagebottom {
+    height: 15px;
+    background-color: #ecece8;
+}
+
+/* 表格的tr,固定高度,有背景色(白色) */
+tr.list_white {
+    height: 23px;
+    background-color: #ffffff;
+}
+
+/* 表格选中的tr,固定高度,有背景色(蓝色) */
+tr.selected {
+    height: 23px;
+    background-color: #c7e5ed;
+}
+
+/* 标题的td,字体及颜色 */
+td.title {
+    font: 10.5pt "宋体" bold #000000;
+}
+
+/* 列表的td,带下划线 */
+td.list {
+    border-bottom: 1px solid #bebebe;
+}
+
+/* 列表的td,带下划线,左右边线 */
+td.row {
+    border-left: 1px solid #bebebe;
+    border-right: 1px solid #bebebe;
+    border-bottom: 1px solid #bebebe;
+}
+
+td.left {
+    border: 1px solid #d6d6d6;
+    border-top-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    background-color: #f0f0f0;
+}
+
+/* 标题的td,字体及颜色 */
+td.title {
+    font: 10.5pt "宋体" bold #000000;
+}
+
+/* 列表的td,带下划线 */
+td.list {
+    border-bottom: 1px solid #bebebe;
+}
+
+/* 列表的td,带下划线,左右边线 */
+td.row {
+    border-left: 1px solid #bebebe;
+    border-right: 1px solid #bebebe;
+    border-bottom: 1px solid #bebebe;
+}
+
+td.left {
+    border: 1px solid #d6d6d6;
+    border-top-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    background-color: #f0f0f0;
+}
+
+/* 列表的td,固定高度,背景色 */
+td.list_title {
+    height: 22px;
+    background-color: #e4e4e4;
+}
+
+/* 列表的td,固定高度,背景色 */
+td.list_gray {
+    height: 22px;
+    background-color: #f5f5f5;
+}
+
+/*标识是否必输字段的单元格样式*/
+.td_yes {
+    /*BORDER-RIGHT: #fcc 6px solid;
+    PADDING-LEFT: 10px;
+    LINE-HEIGHT: 18px;
+    TEXT-ALIGN: right;*/
+    text-align:right;
+}
+
+.td_no {
+    /*PADDING-RIGHT: 4px;
+    PADDING-LEFT: 10px;
+    LINE-HEIGHT: 18px;
+    TEXT-ALIGN: center;
+    TEXT-DECORATION: none;*/
+    text-align:right;
+}
+
+/**************************************************
+ * 当无指定div下的样式时，采用通用样式
+ **************************************************/
+
+
+input.mytext {
+    font-size: 10pt;
+    background-color: #ffffff;
+    border: solid 1px #7f7f7f;
+    width: 96%;
+    height: 21px;
+    padding: 2px;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#7f7f7f'});
+}
+
+/*页底每页N行的输入框*/
+input.pagetext {
+    font-size: 10pt;
+    background-color: #ffffff;
+    border: solid 1px #b4b4b4;
+    width: 40px;
+    height: 19px;
+    padding: 2px;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#b4b4b4'});
+}
+
+/*input-type选择器。IE6之前的对web标准支持的不太好的浏览器不能支持*/
+input[type="text"] {
+    /*background-color: aquamarine;*/
+    /*background-color: #ff0000;*/
+    font-size: 14px;
+    height:34px;
+    width:150px;
+    margin-top:6px;
+    /*border: solid 1px #7f7f7f;*/
+    /*width: 94%;
+    height: 21px;*/
+    padding: 0px;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#7f7f7f'});
+}
+
+input[type="password"] {
+    /*
+        background-color: bisque;
+        height: 21px;
+        padding: 0px;
+        border: solid 1px #7f7f7f;
+    */
+    font-size: 14px;
+    /*background-color: #ffffff;*/
+    margin-top:6px;
+    width: 94%;
+    
+}
+
+
+/* 标准button样式 */
+input.mybutton {
+    background-color: #ffffff;
+    border: 1px outset #7f7f7f;
+    DISPLAY: inline;
+    PADDING: 2px 2px;
+    width: 90px;
+    FONT-SIZE: 10pt;
+
+    BACKGROUND-IMAGE: url('/images/buttonbl_bg.gif');
+}
+
+input[type="button"].OtherInput {
+    /*background-color: red;*/
+    /*background-color: #ffffff;*/
+     /*font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 90px;
+    height: 21px;
+    padding: 2px;*/
+}
+
+input[type="submit"].OtherInput {
+    /*background-color: red;*/
+    /*background-color: #ffffff;*/
+    /*font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 90px;
+    height: 21px;
+    padding: 2px;*/
+    background-color: #2a3f71;
+    border-color: #2e6da4;
+}
+
+input[type="reset"].OtherInput {
+    background-color: chocolate;
+    width: 90px;
+}
+
+input[type="checkbox"].OtherInput, input[type="radio"].OtherInput {
+    /*background-color: dodgerblue;*/
+    /*background-color: #ffffff;*/
+    font-size: 10pt;
+    border: solid 0px #7f7f7f;
+    /*width: 94%;*/
+    height: 21px;
+    padding: 2px;
+}
+
+/*对应DropDownList*/
+select.OtherSelect {
+    background-color: #ff00ff;
+    font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 94%;
+    height: 24px;
+    padding: 2px;
+}
+
+
+
+/* 蓝色链接 */
+a.blue:link {
+    font-size: 10pt;
+    color: #000099;
+    text-decoration: underline;
+}
+
+a.blue:visited {
+    font-size: 10pt;
+    color: #000099;
+    text-decoration: underline;
+}
+
+a.blue:hover {
+    font-size: 10pt;
+    color: #000099;
+    text-decoration: underline;
+}
+
+a.blue:active {
+    font-size: 10pt;
+    color: #000099;
+    text-decoration: none;
+}
+
+strong.red {
+    color: red;
+}
+
+/*mycssTop导航菜单文本样式*/
+A.top_text {
+   /* font: 10pt 宋体;
+    COLOR: #000000;*/
+    float:right;
+    text-decoration: none;
+    margin-left:10px;
+    margin-top:10px;
+}
+
+    A.top_text:hover {
+        COLOR: #000000;
+        text-decoration: none;
+    }
+
+    A.top_text:active {
+        COLOR: #000000;
+    }
+
+/*翻页文本样式*/
+A.page_text {
+    font: 10pt 宋体;
+    COLOR: #333333;
+}
+
+    A.page_text:hover {
+        COLOR: #333333;
+    }
+
+    A.page_text:active {
+        COLOR: #333333;
+    }
+
+/*我的邮箱中标题等样式*/
+A.mail_text {
+    font: 10pt 宋体;
+    COLOR: #000000;
+    text-decoration: none;
+}
+
+    A.mail_text:hover {
+        COLOR: #000000;
+        text-decoration: underline;
+    }
+
+    A.mail_text:active {
+        COLOR: #000000;
+    }
+
+/*我的邮箱中分栏导航的文字*/
+A.mail_top {
+    font: 10pt 宋体;
+    COLOR: #FFFFFF;
+    text-decoration: none;
+}
+
+    A.mail_top:hover {
+        COLOR: #FFFFFF;
+        text-decoration: none;
+    }
+
+    A.mail_top:active {
+        COLOR: #FFFFFF;
+    }
+
+/*页底确定每页行数按钮*/
+.pagebtn {
+    BORDER-RIGHT: 1px solid #CCCCCC;
+    BORDER-TOP: 1px solid #fff;
+    BACKGROUND: #336699;
+    MARGIN-LEFT: 2px;
+    BORDER-LEFT: 1px solid #fff;
+    WIDTH: 20px;
+    HEIGHT: 20px;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: 1px solid #CCCCCC;
+    LETTER-SPACING: normal;
+    color: #FFFFFF;
+    font-size: 10pt;
+}
+
+/*只显示下划线的文本框*/
+.under_text {
+    background-color: #EBEBEB;
+    border-top-width: 0px;
+    BORDER-RIGHT: #D8D8D8 0px solid;
+    BORDER-BOTTOM: #b4b4b4 1px solid;
+    border-left-width: 0px;
+}
+
+
+
+
+/*******************************************
+ *
+ *   input样式
+ *
+ *******************************************/
+
+
+/*右键菜单的样式*/
+.cMenu {
+    FILTER: alpha(opacity=0);
+    BACKGROUND-COLOR: #D6D3CE;
+    BORDER-BOTTOM: #666666 2px solid;
+    BORDER-LEFT: #E4E4E4 2px solid;
+    BORDER-RIGHT: #666666 2px solid;
+    BORDER-TOP: #E4E4E4 2px solid;
+    COLOR: #000000;
+    CURSOR: default;
+    FONT-SIZE: 10pt;
+    color: #000000;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: 20px;
+    POSITION: absolute;
+    VISIBILITY: hidden;
+    WIDTH: 110px;
+}
+
+.menuitems {
+    font-size: 10pt;
+    MARGIN: 2px;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 15px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 0px;
+}
+
+/*隐藏登录页面的按钮*/
+.btnhide {
+    BORDER-RIGHT: 1px solid #CCCCCC;
+    BORDER-TOP: 1px solid #fff;
+    BACKGROUND: #ffffff;
+    MARGIN-LEFT: 2px;
+    BORDER-LEFT: 1px solid #fff;
+    WIDTH: 1px;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: 1px solid #CCCCCC;
+    LETTER-SPACING: normal;
+}
+
+/*验证控件使用到的两个css，txtfocus为光标回车下移css，txtblur为文本框样式css*/
+.txtfocus {
+    border: 1px solid #6699CC;
+    background-color: #F3FDEB;
+}
+
+.txtblur {
+    border: 1px solid #3368c3;
+    background-color: #ffffff;
+}
+
+/*隐藏gridview中的某些列使用的css*/
+.hidden {
+    display: none;
+}
+
+
+/*写短信的内容长度提示框*/
+.wordtext {
+    border-right: 0px solid;
+    border-top: 0px solid;
+    font-size: 10pt;
+    border-left: 0px solid;
+    width: 23px;
+    border-bottom: 0px solid;
+    height: auto;
+    background-color: #ecece8;
+}
+
+/*工作流表单的样式*/
+.flowinput {
+    font-family: "宋体";
+    font-size: 10pt;
+    color: #8CA1AE;
+    text-decoration: none;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #ecece8;
+    border-right-color: #ecece8;
+    border-bottom-color: #8CA1AE;
+    border-left-color: #ecece8;
+    background-color: #ecece8;
+}
+
+/*我的公文包标题链接*/
+a.navigate:link {
+    font-size: 10pt;
+    color: #3366FF;
+    text-decoration: underline;
+}
+
+a.navigate:visited {
+    font-size: 10pt;
+    color: #3366FF;
+    text-decoration: underline;
+}
+
+a.navigate:hover {
+    font-size: 10pt;
+    color: #3366FF;
+    text-decoration: underline;
+}
+
+a.navigate:active {
+    font-size: 10pt;
+    color: #3366FF;
+    text-decoration: underline;
+}
+
+/* 黑色链接 */
+a.black:link {
+    display:inline-block;
+    /*background-color: #286090;*/
+    width:100%;
+	text-decoration:none;
+}
+
+/*a.black:visited {
+     display:inline-block;
+    font-size: 10px;
+    color: #000000;
+}
+
+a.black:hover {
+     display:inline-block;
+    font-size: 10px;
+    color: #000000;
+    text-decoration: none;
+}
+
+a.black:active {
+     display:inline-block;
+    font-size: 10px;
+    color: #000000;
+    text-decoration: none;
+}*/
+
+
+/*对齐控件  文本按钮*/
+.ctlAlign {
+    vertical-align: middle;
+}
+
+/*listbox*/
+.mylist {
+    border: 0px solid #F4F4F4;
+    width: 150px;
+    height: 230px;
+    overflow: hidden;
+}
+
+.baise a:link, .baise a:visited
+{
+    color:#ffffff;
+    font-family: "宋体";
+    font-size: 12px;
+    text-decoration: none;
+}
+.baise a:hover
+{
+    color: red;
+    font-family: "宋体";
+    font-size: 12px;
+    text-decoration: none;
+}
+/*新添加的样式*/
+/*导航条样式*/
+.nvatop {
+    box-sizing:border-box;
+    width:100%;
+    height:82px;
+    padding:13px 25px 0;
+    background:url(../images/newbg2.png) repeat;
+}
+/*#SaveBtn{
+    width:180px;
+    background-color: #2a3f71;
+    border-color: #2e6da4;
+}*/
+.panelznxx {
+    padding-left: 30%;
+    margin-top: 30px;
+}
+#tcsz >tbody> tr >td {
+    text-align:left;
+}
+
+#c13 > tbody > tr > td {
+    text-align:left;
+}
+#xb,#ssbm,#zw{
+    width:180px;
+    margin-top:6px;
+}
+#wpbz,#bz{
+    width:505px;
+}
+
+#AspNetPager1 {
+    text-align:right;
+}
+
+#tbxReportPrinterName,#tbxLabelPrinterName {
+    display:inline;
+}
+
+#btnSetLabelPrinterName, #btnSetReportPrinterName {
+    margin-bottom:3px;
+}
+
+#UserName {
+    width:141px;
+}
+
+.TreeView1 > table > tbody > tr > td{
+    width:50px;
+    text-align:left;
+}
+
+.TreeView2 > table > tbody > tr > td {
+    text-align:left;
+}

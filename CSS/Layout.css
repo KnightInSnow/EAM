@@ -1,0 +1,824 @@
+﻿/*
+bee4fd  左侧菜单栏未选中时的颜色
+8CA1AE  每个页面模块名称后面条的颜色
+    */
+
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    font-size: 10pt;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+    /* 主body样式,有渐变色 */
+    body.main {
+        /*background-color: #ecece8;*/
+    }
+
+
+/**********************************************
+    *******************************************
+    主桌面布局
+    *******************************************
+***********************************************/
+.DesktopDiv {
+    /*background-color: #48d1cc;*/
+    width: 1000px;
+    margin: auto;
+    /*vertical-align:0;*/
+    margin-top: 4%;
+}
+
+.DesktopDivLeft {
+    width: 490px;
+    height: 160px;
+    margin: auto;
+    float: left;
+    border-radius: 5px 5px 0 0;
+    /*background-color: #bee4fd;*/
+	background-color: #f7f7fa;
+	box-shadow:2px 2px 10px #f7f7fa;
+}
+
+.DesktopDivRight {
+    width: 490px;
+    height: 160px;
+    margin: auto;
+    float: right;
+    border-radius: 5px 5px 0 0;
+	background-color: #f7f7fa;
+/*background-color: #bee4fd;*/
+}
+
+.DesktopDivLeft2 {
+    width: 490px;
+    height: 160px;
+    margin: auto;
+    float: left;
+    border-radius: 5px 5px 0 0;
+    /*background-color: #bee4fd;*/
+	background-color: #f7f7fa;
+}
+
+.DesktopDivRight2 {
+    width: 490px;
+    height: 160px;
+    margin: auto;
+    float: right;
+    border-radius: 5px 5px 0 0;
+    /*background-color: #bee4fd;*/
+	background-color: #f7f7fa;
+}
+
+.DesktopDivLeft3 {
+    width: 490px;
+    height: 160px;
+    margin: auto;
+    float: left;
+    border-radius: 5px 5px 0 0;
+   /*background-color: #bee4fd;*/
+	background-color: #f7f7fa;
+}
+
+.DesktopDivRight3 {
+    width: 490px;
+    height: 160px;
+    margin: auto;
+    float: right;
+    border-radius: 5px 5px 0 0;
+   /*background-color: #bee4fd;*/
+	background-color: #f7f7fa;
+}
+
+.DesktopPanel {
+    width: 470px;
+    height: 120px;
+    margin-left: 8px;
+    float: left;
+    border-radius: 5px 5px 0 0;
+    background-color: #f7f7fa;
+    border-style: solid;
+    border-color: #bee4fd;
+    border-width: 1px;
+}
+
+.Yahei {
+    font-family: 微软雅黑;
+    font-size: 10pt;
+    color: Highlight;
+    font-weight: 900;
+}
+/**********************************************
+    *******************************************
+    一级页面布局
+    *******************************************
+***********************************************/
+
+/*空白线条*/
+.Page-EmptyLine-Large {
+    width: 1000px;
+    height: 80px;
+    margin: auto;
+    margin-bottom: 0;
+}
+
+/*空白线条*/
+.Page-EmptyLine-Normal {
+    width: 1000px;
+    height: 20px;
+    margin: auto;
+    margin-bottom: 0;
+}
+
+/*存放页面的头*/
+.PageHead {
+    background-color: #f2f2f2;
+    background-image: url(../images/newhead.png);
+    background-repeat: no-repeat;
+    background-position:bottom left;
+    /*height: 20px;*/
+    height:85px;
+    width: 100%;
+    /*top: 0px;*/
+    margin: 0px;
+    margin-bottom: 30px;
+    /*内部显示文本时垫*/
+    padding-top: 4px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 10pt;
+}
+
+/*存放页面所有可能变化的元素*/
+.PageBody {
+   /*width: 1000px;*/
+   width:95% ;
+    margin:0 auto;
+}
+
+
+/*具有最小高度并自动调整高度的div*/
+.PageBody-Top {
+    /*width: 1000px;*/
+   width:100% ;
+}
+
+/*用户输入查找的选项区域*/
+.PageBody-Top-Inputs {
+    /*background-color: #bee4fd; /*需要自定义颜色*/
+    background-color: #f7f7fa;
+    /*width: 1000px;*/
+   width:100% ;
+    margin: auto;
+    /*height: auto !important;*/
+    height: 85px;
+    min-height: 85px;
+    /*border-style: solid;
+    border-color: #add3ec;
+    border-width: 1px;*/
+}
+
+/*div中靠底部*/
+.PageBody-Top-Buttons {
+   /* width: 1000px;*/
+   width:100%;
+    left: 0;
+    bottom: 0;
+    margin-top:10px;
+}
+
+/*自动高度的div*/
+.PageBody-Middle-AutoHeight {
+    /*background-color: #CAE4FF;*/
+    /*width: 1000px;*/
+    width:100%;
+    margin: auto;
+    border-style: solid;
+    border-color: #bee4fd; /*需要自定义颜色*/
+    border-width: 1px;
+    border-color: #add3ec;
+}
+
+/*具有最小高度并自动调整高度的div*/
+.PageBody-Middle-MinHeight {
+    /*background-color: #CAE4FF;*/
+    /*width: 1000px;*/
+    width:100% ;
+    height: auto !important;
+    height: 400px;
+    min-height: 400px;
+    /* border-style: solid;
+    border-color: #bee4fd; /*需要自定义颜色*/
+    /*border-width: 1px;
+    border-color: #add3ec;*/
+}
+
+/*Pager控件的div*/
+.PageBody-Bottom-Pager {
+    /*background-color: #CAE4FF;*/
+    /*background-color: #bee4fd; /*需要自定义颜色*/
+    /*width: 1000px;*/
+    background-color: #eef1f3;
+   width:100% ;
+    height: 35px;
+    padding-top: 8px;
+    vertical-align: central;
+    border-style:solid;
+    border-color: #949eb8 #a5a8aa #a5a8aa;
+    border-width:2px 1px 1px;
+}
+
+/*存放页面的尾*/
+.PageFoot {
+    width: 100%;
+    height: 0px;
+    margin-bottom: 20px;
+}
+
+/*###############################################
+    table tr td 在div标签下的样式
+#################################################*/
+
+/*限定在PageBody-Top中的所有类型input统一样式*/
+/*.PageBody-Top-Inputs input[type="text"] {
+    /*background-color: aquamarine;*/
+    /*background-color: #00ff00;*/
+    /*font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 152px;
+    height: 16px;
+    padding: 2px;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#7f7f7f'});
+}*/
+
+/*.PageBody-Top-Inputs input[type="password"] {
+    background-color: bisque;
+    font-size: 10pt;
+    /*background-color: #ffffff;*/
+    /*border: solid 1px #7f7f7f;
+    width: 152px;
+    height: 22px;
+    padding: 2px;
+}*/
+
+
+/*信息输入区域的按钮*/
+.PageBody-Top-Buttons input[type="button"] {
+    /*background-color: blueviolet;*/
+    /*background-color: #fff;
+    background-image: url('/images/buttonbl_bg.gif');
+    DISPLAY: inline;
+
+    font-size: 10pt;
+    border: solid 1px #888;
+    width: 90px;
+    height: 22px;
+    padding: 2px;*/
+    width:110px;
+    height:34px;
+    margin-left:5px;
+    background-color: #2a3f71;
+    border-color: #2e6da4;
+}
+
+.PageBody-Top-Buttons input[type="submit"] {
+    /*background-color: blueviolet;*/
+    /*background-color: #ffffff;
+    background-image: url('/images/buttonbl_bg.gif');
+    DISPLAY: inline;
+
+    font-size: 10pt;
+    border: solid 1px #888;
+    width: 90px;
+    height: 22px;
+    padding: 2px;*/
+    width:110px;
+    margin-left:5px;
+    background-color: #2a3f71;
+    border-color: #2e6da4;
+    
+}
+
+.PageBody-Top-Buttons input[type="reset"] {
+    background-color: chocolate;
+    width: 90px;
+}
+
+.PageBody-Middle-MinHeight input[type="checkbox"],  input[type="radio"],  input[type="image"] {
+    /*background-color: red;*/
+    /*border: 1px outset #7f7f7f;*/
+    PADDING-RIGHT: 4px;
+    DISPLAY: inline;
+    PADDING-LEFT: 6px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    /*BACKGROUND-IMAGE: url('/images/buttonbl_bg.gif');*/
+    PADDING-BOTTOM: 2px;
+    COLOR: #000000;
+    LINE-HEIGHT: 15px;
+    PADDING-TOP: 1px;
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    /*width: 90px;*/
+}
+
+/*对应DropDownList*/
+.PageBody-Top-Inputs select {
+    /*background-color: #00ffff;*/
+    font-size: 15px;
+    width:150px;
+    margin-top:7px;
+    /* border: solid 1px #7f7f7f;
+    width: 159px;
+    height: 22px;
+    padding: 2px;*/
+}
+
+
+.PageBody-Top-Inputs table {
+    /*background-color: #ff0000;*/
+    border-style: none;
+}
+
+    .PageBody-Top-Inputs table tr td {
+        /*background-color: #ff0000;*/
+        /*background-color: #CAE4FF;*/
+        border-style: none;
+        text-align: center;
+        width:150px;
+    }
+
+.PageBody-Top-Buttons table {
+    /*background-color: white;*/
+    /*background-color: #CAE4FF;*/
+    border: none;
+    border-style: none;
+}
+
+    .PageBody-Top-Buttons table tr td {
+        /*background-color: white;*/
+        /*background-color: #CAE4FF;*/
+        border: none;
+        text-align: right;
+    }
+
+
+.PageBody-Middle-AutoHeight table {
+    /*background-color: #CAE4FF;*/
+    border: none;
+    border-style: none;
+}
+
+    .PageBody-Middle-AutoHeight table tr td {
+        /*background-color: #CAE4FF;*/
+        border: none;
+        text-align: center;
+    }
+
+
+
+/**********************************************
+    *******************************************
+    二级页面布局
+    *******************************************
+***********************************************/
+
+/*存放页面的头*/
+.PopHead {
+    background-color: #bee4fd;
+    /*background-color:red;*/
+    height: 36px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 20px;
+    /*内部显示文本时垫*/
+    padding-top: 4px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 10pt;
+}
+
+/*存放页面所有可能变化的元素*/
+.PopBodyInputs {
+    width: 648px;
+    margin: auto;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    /*background-color: #bee4fd;
+    border-style: solid;
+    border-color: #add3ec; 
+    border-width: 1px;*/
+}
+
+.PopBodyGrid {
+    /*width: 96%;
+    margin: auto;
+    margin-bottom: 0px;
+    background-color: #bee4fd;
+    border-style: solid;
+    border-color: #add3ec;
+    border-width: 1px;*/
+}
+
+/*Pager控件的div*/
+.PopBodyPager {
+    /*background-color: #CAE4FF;*/
+    background-color: #bee4fd; /*需要自定义颜色*/
+    width: 96%;
+    margin: auto;
+    height: 22px;
+    padding-top: 4px;
+    vertical-align: central;
+}
+
+.Pop-EmptyLine-Large {
+    width: 10%;
+    height: 80px;
+    margin: auto;
+    margin-bottom: 0;
+}
+
+.Pop-EmptyLine-Normal {
+    width: 10%;
+    height: 20px;
+    margin: auto;
+    margin-bottom: 0;
+}
+
+/*############################################
+    二级布局下的table样式
+##############################################*/
+.PopBodyInputs table {
+    /*background-color: #ff0000;*/
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+    .PopBodyInputs table tr td {
+        /*background-color: #ff0000;*/
+        /*background-color: #CAE4FF;*/
+        border-style: none;
+        /*text-align: center;*/
+        line-height: 21px;
+    }
+
+.PopBodyGrid table {
+    /*background-color: #ff0000;*/
+    width: 100%;
+}
+
+.PopHead a {
+    /*font-family: "微软雅黑";*/
+    Font-Size: 10pt;
+}
+
+.PopHead span {
+    /*font-family: "微软雅黑";*/
+    Font-Size: 10pt;
+}
+
+.PopHead input[type="submit"], input[type="button"] {
+    /*background-color: aquamarine;*/
+    /* border: 1px outset #7f7f7f;
+    PADDING-RIGHT: 4px;
+    DISPLAY: inline;
+    PADDING-LEFT: 6px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    BACKGROUND-IMAGE: url('/images/buttonbl_bg.gif');
+    PADDING-BOTTOM: 2px;
+    COLOR: #000000;
+    LINE-HEIGHT: 15px;
+    PADDING-TOP: 1px;
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    width: 90px;*/
+}
+
+.MultiLineText {
+    /*border:1px solid red;*/ 
+}
+
+/*multi line textbox 的形状与行为*/
+.PopBodyInputs textarea {
+    /*background-color: aquamarine;*/
+    /*background-color: #f00;*/
+    /*font-size: 10pt;*/
+    /*border: solid 1px #7f7f7f;*/
+    width: 424px;
+    padding: 2px;
+    margin:6px 0;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#7f7f7f'});
+}
+
+/*input-text的形状与行为*/
+.PopBodyInputs input[type="text"] {
+    /*background-color: aquamarine;*/
+    /*background-color: #f00;*/
+    /*font-size: 10pt;*/
+   /* width: 424px;
+    height: 16px;
+    padding: 2px;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#7f7f7f'});*/
+}
+
+/*input-text的外观*/
+.PopBodyInputs input[type="text"] {
+    /*border: solid 1px #7f7f7f;
+    background-color: #fff;*/
+}
+
+.PopBodyInputs input[type="file"] {
+    /*background-color: aquamarine;*/
+    /*background-color: #ffc;*/
+    /*font-size: 10pt;*/
+     /*border: solid 1px #7f7f7f;
+    width: 100%;
+    height: 20px;
+    padding: 2px;
+    onfocus: expression(onfocus=function (){this.style.borderColor ='#5c85b3'});
+    onblur: expression(onblur=function (){this.style.borderColor ='#7f7f7f'});*/
+     margin-top:6px;
+
+}
+
+.PopBodyInputs input[type="submit"], input[type="button"] {
+    /*background-color: #ffffff;
+    border: 1px outset #7f7f7f;
+    PADDING-RIGHT: 4px;
+    DISPLAY: inline;
+    PADDING-LEFT: 6px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    BACKGROUND-IMAGE: url('/images/buttonbl_bg.gif');
+    PADDING-BOTTOM: 2px;
+    COLOR: #000000;
+    LINE-HEIGHT: 15px;
+    PADDING-TOP: 1px;
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    width: 90px;*/
+}
+
+.PopBodyInputs input[type="checkbox"], input[type="radio"], input[type="image"] {
+    /*background-color: red;*/
+    /*border: 1px outset #7f7f7f;*/
+    PADDING-RIGHT: 4px;
+    DISPLAY: inline;
+    PADDING-LEFT: 6px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    /*BACKGROUND-IMAGE: url('/images/buttonbl_bg.gif');*/
+    PADDING-BOTTOM: 2px;
+    COLOR: #000000;
+    LINE-HEIGHT: 15px;
+    PADDING-TOP: 1px;
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    /*width: 90px;*/
+}
+
+/*对应DropDownList*/
+.PopBodyInputs select {
+    /*font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 432px;
+    height: 22px;
+    padding: 2px;*/
+    width:150px;
+    margin-top:6px;
+}
+
+.PopBodyInputs input.InputHalfWidth {
+    border: solid 1px #7f7f7f;
+    width: 208px;
+    height: 16px;
+    padding: 2px;
+}
+
+.PopBodyInputs select.SelectHalfWidth {
+    font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 216px;
+    height: 22px;
+    padding: 2px;
+}
+
+.PopBodyInputs input.InputQuarterWidth {
+    font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 100px;
+    height: 16px;
+    padding: 2px;
+}
+
+.PopBodyInputs select.SelectQuarterWidth {
+    font-size: 10pt;
+    border: solid 1px #7f7f7f;
+    width: 108px;
+    height: 22px;
+    padding: 2px;
+}
+
+
+/*在PopBodyInputs区域中 input select 类型的外观定义*/
+.PopBodyInputs input, .PopBodyInputs select, .PopBodyInputs textarea {
+    /*background-color: #ffc !important;*/
+}
+
+/*必选项提示*/
+    .PopBodyInputs input.PopMust, .PopBodyInputs select.PopMust, .PopBodyInputs textarea.PopMust {
+        background-color: #fcc !important;
+        /*background: linear-gradient(to right, red, blue) !important; /* 标准的语法 */
+    }
+
+/*外观f、在弹出窗口中的面板外框设置*/
+.fPopPanel {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #add3ec;
+}
+/*形状s、弹出窗口的面板整体设置*/
+.sPopPanel {
+    width:100%;
+    height: 200px !important;
+}
+ 
+
+.PopBodyGrid input[type="checkbox"], input[type="radio"], input[type="image"] {
+    background-color: white;
+    /*border: 1px outset #7f7f7f;*/
+    PADDING-RIGHT: 4px;
+    DISPLAY: inline;
+    PADDING-LEFT: 6px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    /*BACKGROUND-IMAGE: url('/images/buttonbl_bg.gif');*/
+    PADDING-BOTTOM: 2px;
+    COLOR: #000000;
+    LINE-HEIGHT: 15px;
+    PADDING-TOP: 1px;
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    /*width: 90px;*/
+}
+
+
+/**********************************************
+    *******************************************
+    GridView CSS 样式表 （蓝色朴素）
+    *******************************************
+***********************************************/
+.GridViewStyle {
+    border-style: solid;
+    border-width: 1px;
+   /*border-color: #add3ec;*/ 
+    border-color: #a5a8aa;
+    background-color: white;
+    width: 100%;
+    height:40px;
+}
+.GridViewStyle > tbody >tr > th {
+        text-align:center;
+    }
+
+    .GridViewStyle.a {
+        color: #FFFFFF;
+    }
+
+.GridViewHeaderStyle.th {
+    border-left: 1px solid #EBE9ED;
+    border-right: 1px solid #EBE9ED;
+}
+
+.GridViewHeaderStyle {
+    /*background-color: #5D7B9D;*/
+    background-color: #bee4fd; /*需要自定义颜色*/
+    font-weight: bold;
+    line-height: 22px;
+}
+    .GridViewHeaderStyle > th {
+        text-align:center;
+    }
+.GridViewFooterStyle {
+    /*background-color: #5D7B9D;*/
+    background-color: #bee4fd; /*需要自定义颜色*/
+    font-weight: bold;
+    color: White;
+    line-height: 22px;
+    text-align: center;
+}
+
+.GridViewRowStyle {
+    background-color: #F7F6F3;
+    color: #333333;
+    line-height: 22px;
+    text-align: center;
+}
+
+.GridViewAlternatingRowStyle {
+    background-color: #FFFFFF;
+    color: #284775;
+    line-height: 22px;
+}
+
+    .GridViewRowStyle.td, .GridViewAlternatingRowStyle.td {
+        border: 1px solid #EBE9ED;
+    }
+
+.GridViewSelectedRowStyle {
+    background-color: #E2DED6;
+    font-weight: bold;
+    color: #333333;
+    line-height: 22px;
+}
+
+.GridViewPagerStyle {
+    background-color: #284775;
+    color: #FFFFFF;
+    line-height: 22px;
+}
+
+    .GridViewPagerStyle.table {
+        margin: 0 auto 0 auto;
+    }
+
+.GridViewEmptyDataStyle {
+    /*background-color: #bee4fd; /*需要自定义颜色*/
+    background-color: #eef1f3;
+    font-size: 10pt;
+    color: #000000;
+    line-height: 22px;
+}
+
+
+
+/**********************************************
+    *******************************************
+    GridView CSS 样式表 （）
+    *******************************************
+***********************************************/
+.mGrid {
+    width: 100%;
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+}
+
+    .mGrid td {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+        color: #717171;
+    }
+
+    .mGrid th {
+        padding: 4px 2px;
+        color: #fff;
+        background: #424242 url(grd_head.png) repeat-x top;
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+    }
+
+    .mGrid .alt {
+        background: #fcfcfc url(grd_alt.png) repeat-x top;
+    }
+
+    .mGrid .pgr {
+        background: #424242 url(grd_pgr.png) repeat-x top;
+    }
+
+        .mGrid .pgr table {
+            margin: 5px 0;
+        }
+
+        .mGrid .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .mGrid .pgr a {
+            color: #666;
+            text-decoration: none;
+        }
+
+            .mGrid .pgr a:hover {
+                color: #000;
+                text-decoration: none;
+            }

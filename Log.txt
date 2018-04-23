@@ -1,0 +1,3271 @@
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：无法从其“ShowCustomInfoSection”属性的字符串表示形式“center”创建“Wuqi.Webdiyer.ShowCustomInfoSection”类型的对象。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：无法从其“ShowCustomInfoSection”属性的字符串表示形式“”创建“Wuqi.Webdiyer.ShowCustomInfoSection”类型的对象。
+应用程序出错：服务器标记的格式不正确。
+应用程序出错：服务器标记的格式不正确。
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：无法从其“ShowCustomInfoSection”属性的字符串表示形式“center”创建“Wuqi.Webdiyer.ShowCustomInfoSection”类型的对象。
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xzgl/gzzd.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+会话启动
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+login.aspx page_load 1
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/yjgl/sjx.aspx”不存在。
+应用程序启动
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/yjgl/sjx.aspx”不存在。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xxgl/minixx.aspx”不存在。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xzgl/gzzd.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/yjgl/sjx.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+应用程序出错：服务器标记的格式不正确。
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/yjgl/sjx.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/yjgl/sjx.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xzgl/qygg.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xzgl/gzzd.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+会话启动
+login.aspx page_load 1
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/xzgl/qygg.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+应用程序出错：文件“/oa/yjgl/sjx.aspx”不存在。
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+会话启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+login.aspx page_load 1
+login.aspx page_load 1
+login.aspx LoginBtn_Click 1
+login.aspx LoginBtn_Click 2
+login.aspx LoginBtn_Click 2.5
+login.aspx LoginBtn_Click 3
+login.aspx 用户正常登入
+login.aspx 数据库升级完成
+login.aspx 用户参数配置
+login.aspx 打印机参数配置
+initmain.aspx enter
+initmain.aspx load finished
+会话启动
+会话启动
+login.aspx page_load 1
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+会话启动
+应用程序出错：引发类型为“System.Web.HttpUnhandledException”的异常。
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+应用程序启动
+会话启动
+login.aspx page_load 1
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+应用程序启动
+会话启动
+会话启动
+会话启动
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+应用程序出错：文件“G:\戴超\EAM页面样式修改_原目录为D部署的网站武胜版本\Log.txt”正由另一进程使用，因此该进程无法访问此文件。
+会话启动
+会话启动
+应用程序启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
+应用程序启动
+会话启动
